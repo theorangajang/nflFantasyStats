@@ -21,8 +21,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "nodemon": "^1.12.1",
-    "pretty": "^2.0.0",
-    "xml2js": "^0.4.19"
+    "pretty": "^2.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
